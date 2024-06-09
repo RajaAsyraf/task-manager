@@ -8,7 +8,7 @@ Task manager is an open source web application that aims to solve problem with m
 5. Search and Filter: Implement search and filter functionalities to easily find tasks.
 
 ## Installation
-Before run this in your local, make sure you have PHP 8, Composer and Node.js (for NPM) installed in your local machine. You may also consider using [Laravel Herd](https://herd.laravel.com). Once you have that ready, we can follow this steps:
+Before run this in your local, make sure you have PHP 8, Composer and Node.js (for NPM) installed in your local machine. You may also consider using [Laravel Herd](https://herd.laravel.com). Once you have that ready, you can follow this steps:
 1. Execute `composer install` to install all of the PHP packages.
 2. Copy the `.env` file from `.env.example` using this command `cp .env.example .env`.
 3. Generate the key `php artisan key:generate`.
