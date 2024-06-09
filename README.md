@@ -16,5 +16,11 @@ Before run this in your local, make sure you have PHP 8, Composer and Node.js (f
 5. Install JavaScript packages using `npm install`.
 6. Finally, you can build the frontend using `npm run build`.
 
+## Fake data
+You may use database seeder to generate fake data. Simply execute this.
+```
+php artisan db:seed
+```
+
 ## Contribution
 Feel free to submit a PR to improve this and let me know if you have better idea for this repo. Thanks!
